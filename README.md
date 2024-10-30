@@ -12,6 +12,11 @@ NoSQL Database Model Selection: MongoDB is chosen as the NoSQL database platform
 Database Schema Design: MongoDB's schema-less nature allows for flexible and dynamic schema design. The schema can be designed to accommodate diverse types of social media data such as text, images, videos, user profiles, comments, likes, shares, etc. 
 
 ## Tech Stack
+Database: MongoDB | Mongoose
+Backend: Node.js |Express
+API tools: Postman
+IDE: VS Code
+
 ![image](https://github.com/user-attachments/assets/e5b35986-a2d0-428e-a76a-b56fcb06a9f1)
 
 ## NoSQL DB Schema Design 
